@@ -1,0 +1,24 @@
+Tabla de datos 2
+
+Frecuencia de		Ganancia del		Ganancia del		Ganancia del
+operación (fc)		transmisor 		transmisor		Transmisor
+MHz			(GTX = 3)		(GTX = 15)		(GTX = 30)
+			
+50
+60
+70
+80
+90
+100
+200
+300
+400
+500
+600
+700
+800
+900
+990
+
+
+

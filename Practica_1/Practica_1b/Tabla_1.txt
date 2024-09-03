@@ -1,0 +1,34 @@
+Tabla de datos 1
+Ganancia del Tx (de compensación) = +0dB
+
+--------------------------------------------------
+FC = 200MHz
+
+Amplitud generada	Amplitud Osciloscopio
+
+0.5 V			86.73 mV
+0.25 V			43.8 mV
+0.125 V			22.54 mV
+0.06025 V		10.416 mV
+
+--------------------------------------------------
+FC = 300MHz
+
+Amplitud generada	Amplitud Osciloscopio
+
+0.5 V			55 mV
+0.25 V			27.4 mV
+0.125 V			14.8 mV
+0.06025 V		7.1 mV
+
+--------------------------------------------------
+FC = 400MHz
+
+Amplitud generada	Amplitud Osciloscopio
+
+0.5 V			35 mV
+0.25 V			18.23 mV
+0.125 V			8.82 mV
+0.06025 V		(+0dB) 4.4 mV
+0.06025 V		(+20dB) 4.20 mV
+
