@@ -226,7 +226,7 @@ blocks:
     samp_rate: samp_rate
     showports: 'False'
     type: float
-    waveform: analog.GR_SIN_WAVE
+    waveform: analog.GR_COS_WAVE
   states:
     bus_sink: false
     bus_source: false
