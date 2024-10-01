@@ -224,7 +224,7 @@ class Lab_comu_2a(gr.top_block, Qt.QWidget):
         self.blocks_float_to_complex_0 = blocks.float_to_complex(1)
         self.blocks_add_xx_0 = blocks.add_vff(1)
         self.blocks_add_xx_0.set_block_alias("blocks_add_xx_0")
-        self.analog_sig_source_x_0 = analog.sig_source_f(samp_rate, analog.GR_COS_WAVE, fm, A, 0, 0)
+        self.analog_sig_source_x_0 = analog.sig_source_f(samp_rate, analog.GR_SIN_WAVE, fm, A, 0, 0)
         self.analog_noise_source_x_0 = analog.noise_source_f(analog.GR_GAUSSIAN, No, 0)
         self.analog_noise_source_x_0.set_block_alias("analog_noise_source_x_0")
 
