@@ -24,9 +24,21 @@ Aquí tambien podrá ver los diferentes laboratorios realizados, con sus resulta
     En esta actividad se exploraron los conceptos de ruido, armónicos y piso de ruido, aplicados a diversas señales. También se trabajó con una señal de audio, a la cual se añadió ruido, permitiendo     observar cómo este afecta tanto su representación como su percepción sonora.
 
   - #### Practica 2b
-    En esta actividad se exploraron conceptos relacionados con la compensación del transmisor y la atenuación de señales. Se realizaron mediciones de la atenuación en diferentes condiciones, así como
-    del comportamiento de las señales al aplicar distintas ganancias de transmisor.
+    En esta actividad se trabajó con señales de diversas formas, como cuadradas, triangulares, seno y coseno, generadas mediante GNU Radio. A estas señales se les aplicó un nivel controlado de ruido     y se realizaron análisis detallados para medir su potencia de ruido, potencia de armónicos y relación señal a ruido pico (PSNR). Para este propósito, las señales fueron analizadas utilizando un     analizador de espectro.
 
+- ### Practica 3
+  - #### Practica 3a   
+    En esta actividad se trabajó con la construcción y análisis de un modulador de amplitud (AM) en GNU Radio, enfocándose en medir y evaluar las características de señales moduladas. Se realizaron      mediciones en el dominio del tiempo y de la frecuencia para diferentes índices de modulación, y se analizaron sus efectos en las señales generadas.
+
+  - #### Practica 3b
+    En esta actividad se exploró el comportamiento de señales moduladas en amplitud (AM) usando una fuente binaria aleatoria y una señal de audio. Se realizaron mediciones en el dominio del tiempo y     de la frecuencia para diferentes configuraciones de modulación y parámetros.
+
+- ### Practica 4
+  - #### Practica 4a   
+    En esta actividad, se usó GNU Radio y un SDR para capturar y analizar señales FM (88-108 MHz). Se configuró un flujo de bloques para demodular con WBFM, aplicar preénfasis y verificar el ancho       de banda permitido. También se identificaron emisoras disponibles y características de las señales, documentando los resultados en una tabla Excel incluida en el repositorio.
+
+  - #### Practica 4b
+    Se analizaron señales FM midiendo el ancho de banda y el nivel de ruido, encontrando valores entre 140 y 200 kHz con buena calidad. Se compararon las capacidades del SDR y el analizador de           espectro, concluyendo que ambos son complementarios: el SDR es ideal para procesamiento digital en tiempo real, mientras que el analizador ofrece mayor precisión en estudios detallados.
   
 
 
